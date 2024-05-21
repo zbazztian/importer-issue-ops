@@ -11,12 +11,12 @@ assignees: ''
 
 Provide the following optional inputs:
 
+folders
+
 ## Available commands
 
 The following commands can be executed by adding a comment to this issue:
 
 - `/audit`
-- `/dry-run --source-url :jenkins-job-url`
-- `/migrate --source-url :jenkins-job-url --target-url :github-repository-url`
-
-**Note**: If any options are missing, the command will not be successful.
+- `/dry-run --source-url https://fdisk.cc:41479/:jenkins-job`
+- `/migrate --source-url https://fdisk.cc:41479/:jenkins-job --target-url https://github.com/zbazztian/:github-repository`
