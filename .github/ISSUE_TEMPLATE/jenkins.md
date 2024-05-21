@@ -18,5 +18,5 @@ folders
 The following commands can be executed by adding a comment to this issue:
 
 - `/audit`
-- `/dry-run --source-url https://fdisk.cc:41479/:jenkins-job`
-- `/migrate --source-url https://fdisk.cc:41479/:jenkins-job --target-url https://github.com/zbazztian/:github-repository`
+- `/dry-run --source-url https://fdisk.cc:41479/job/:jenkins-job`
+- `/migrate --source-url https://fdisk.cc:41479/job/:jenkins-job --target-url https://github.com/zbazztian/:github-repository`
