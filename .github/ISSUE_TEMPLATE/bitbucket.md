@@ -2,8 +2,9 @@
 name: Bitbucket
 about: Migrate Bitbucket pipelines to GitHub Actions
 title: "[Bitbucket]:"
-labels: bitbucket
-assignees: ""
+labels: ''
+assignees: ''
+
 ---
 
 ## Inputs

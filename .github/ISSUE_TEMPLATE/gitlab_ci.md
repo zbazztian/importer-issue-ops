@@ -3,7 +3,8 @@ name: GitLab
 about: Migrate GitLab pipelines to GitHub Actions
 title: "[GitLab]:"
 labels: gitlab
-assignees: ""
+assignees: ''
+
 ---
 
 ## Inputs

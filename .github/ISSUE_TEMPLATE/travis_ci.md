@@ -3,7 +3,8 @@ name: Travis CI
 about: Migrate Travis CI pipelines to GitHub Actions
 title: "[Travis CI]:"
 labels: travis-ci
-assignees: ""
+assignees: ''
+
 ---
 
 ## Inputs

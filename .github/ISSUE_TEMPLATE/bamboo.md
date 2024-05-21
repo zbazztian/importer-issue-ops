@@ -3,7 +3,8 @@ name: Bamboo
 about: Migrate Bamboo pipelines to GitHub Actions
 title: "[Bamboo]:"
 labels: bamboo
-assignees: ""
+assignees: ''
+
 ---
 
 ## Inputs

@@ -3,7 +3,8 @@ name: CircleCI
 about: Migrate CircleCI pipelines to GitHub Actions
 title: "[CircleCI]:"
 labels: circle-ci
-assignees: ""
+assignees: ''
+
 ---
 
 ## Inputs

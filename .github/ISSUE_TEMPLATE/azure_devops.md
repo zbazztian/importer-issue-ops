@@ -3,7 +3,8 @@ name: Azure DevOps
 about: Migrate Azure DevOps pipelines to GitHub Actions
 title: "[Azure DevOps]:"
 labels: azure-devops
-assignees: ""
+assignees: ''
+
 ---
 
 ## Inputs
